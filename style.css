@@ -1,0 +1,8 @@
+img {
+transition: all 300ms ease-in-out !important;
+filter: grayscale(1) !important;
+}
+img {
+transition: all 300ms ease-in-out !important;
+filter: grayscale(0) !important;
+}
